@@ -1,0 +1,14 @@
+C:\Users\colli\source\repos\COROZork\COROZork\bin\Debug\net8.0\COROZork.exe
+C:\Users\colli\source\repos\COROZork\COROZork\bin\Debug\net8.0\COROZork.deps.json
+C:\Users\colli\source\repos\COROZork\COROZork\bin\Debug\net8.0\COROZork.runtimeconfig.json
+C:\Users\colli\source\repos\COROZork\COROZork\bin\Debug\net8.0\COROZork.dll
+C:\Users\colli\source\repos\COROZork\COROZork\bin\Debug\net8.0\COROZork.pdb
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.AssemblyInfoInputs.cache
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.AssemblyInfo.cs
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.dll
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\refint\COROZork.dll
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.pdb
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\COROZork.genruntimeconfig.cache
+C:\Users\colli\source\repos\COROZork\COROZork\obj\Debug\net8.0\ref\COROZork.dll
